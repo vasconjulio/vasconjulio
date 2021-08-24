@@ -67,7 +67,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/julio-vasconcelos/" rel="nofollow">
     <img alt="LinkdeIn de Julio Vasconcelos" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-      <a href="mailto:julioc43@gmail.com?Subject=Título%20da%20mensagem">
+      <a target="_blank" href="mailto:julioc43@gmail.com?Subject=Título%20da%20mensagem">
       <img alt="Gmail de Julio Vasconcelos" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a target="_blank" href="https://github.com/vasconjulio" rel="nofollow">
