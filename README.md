@@ -13,8 +13,9 @@
   <ul>
     <li>Tenho 30 anos;</li>
     <li>Sou apaixonado por tecnologia;</li>
-    <li>Gostaria muito de fazer parte de uma equipe divertida e com cultura acolhedora e diversificada;</li>
-    <li>Inclusão, lealdade, respeito e empatia são valores importantíssimos que sempre levo comigo.</li>
+    <li>Gateiro assumido, sou pai de 4 cats;</>
+    <li>Quero fazer parte de uma equipe divertida, de pessoas inteligentes e inclusivas, e com cultura acolhedora e diversificada;</li>
+    <li>Empatia, Inclusão, Lealdade e Respeito são valores importantíssimos que sempre levo comigo.</li>
   </ul>
 </div>
 
@@ -57,7 +58,7 @@
 <div>
    <ul>
    <li>JavaScript | Curso em Vídeo (Professor Gustavo Guanabara)</li>
-   <li>Bootcamp Front End Developer | DIO (Digital Inovation One)</li>
+   <li>Front End Developer | DIO (Digital Inovation One)</li>
    </ul>
 </div>
 
