@@ -57,8 +57,11 @@
 ### Cursos Complementares:
 <div>
    <ul>
-   <li>JavaScript | Curso em Vídeo (Professor Gustavo Guanabara)</li>
-   <li>Front End Developer | DIO (Digital Inovation One)</li>
+    <li>Lógica de Programação Essencial | DIO (Digital Inovation One)</li>
+    <li>JavaScript ES6 Essencial | DIO (Digital Inovation One)</li>
+    <li>JavaScript | Curso em Vídeo (Professor Gustavo Guanabara)</li>
+    <li>Desenvolvimento avançado com JavaScript ES6 | DIO (Digital Inovation One)</li>
+    <li>Desenvolvimento de aplicações para internet com ReactJS | DIO (Digital Inovation One)</li>
    </ul>
 </div>
 
