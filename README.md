@@ -7,6 +7,20 @@
     <a target="_balck" href="https://vasconjulio.github.io/">www.vasconjulio.github.io</a>
   </li>
 </div>
+    
+### Entre em contato:
+    
+<div>
+    <a target="_blank" href="https://www.linkedin.com/in/julio-vasconcelos/" rel="nofollow">
+    <img alt="LinkdeIn de Julio Vasconcelos" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+      <a target="_blank" href="mailto:julioc43@gmail.com?Subject=Título%20da%20mensagem">
+      <img alt="Gmail de Julio Vasconcelos" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a target="_blank" href="https://github.com/vasconjulio" rel="nofollow">
+      <img alt="Github de Julio Vasconcelos" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>
 
 ### Sobre mim:
 <div>
@@ -64,20 +78,6 @@
     <li>Desenvolvimento de aplicações para internet com ReactJS | DIO (Digital Inovation One)</li>
    </ul>
 </div>
-
-### Entre em contato:
-<div>
-    <a target="_blank" href="https://www.linkedin.com/in/julio-vasconcelos/" rel="nofollow">
-    <img alt="LinkdeIn de Julio Vasconcelos" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-      <a target="_blank" href="mailto:julioc43@gmail.com?Subject=Título%20da%20mensagem">
-      <img alt="Gmail de Julio Vasconcelos" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a target="_blank" href="https://github.com/vasconjulio" rel="nofollow">
-      <img alt="Github de Julio Vasconcelos" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-</div>
-
 
 ###  Desenvolvido por:
 <div align="center">
