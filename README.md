@@ -4,7 +4,7 @@
 <div>
     <ul>
         <li>
-            <a target="_balck" href="https://vasconjulio.github.io/">www.vasconjulio.github.io</a>
+            <a target="_balck" href="https://vasconjulio.com/">www.vasconjulio.com</a>
         </li>
 </div>
 
