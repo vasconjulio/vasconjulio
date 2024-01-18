@@ -4,7 +4,7 @@
 <div>
     <ul>
         <li>
-            <a target="_balck" href="https://vasconjulio.com/">www.vasconjulio.com</a>
+            <a target="_balck" href="https://vasconjulio.com/">https://vasconjulio.github.io/</a>
         </li>
 </div>
 
@@ -31,9 +31,6 @@
         <li>Apaixonado por tecnologia, em 2021 decidi realizar transição de carreira e conquistei minha primeira
             oportunidade na
             área de Tecnologia e Desenolvimento Front-End Web e Mobile.</li>
-        <li>Graduo Análise e Desenvolvimento de Sistemas e estou sempre realizando cursos para aprimorar meus
-            conhecimentos com
-            linguagens de programação.</li>
         <li>Estou sempre envolvido em ações que promovem melhorias e desenvolvimento interpessoal, trabalho em equipe é
             meu forte,
             sempre focado na qualidade.</li>
@@ -71,13 +68,6 @@
     <a href="https://github.com/vasconjulio">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconjulio&layout=compact&langs_count=7&theme=great-gatsby" /></a>
-</div>
-
-### Graduação:
-<div>
-    <ul>
-        <li>Graduando Análise e Desenvolvimento de Sistemas | Universidade Estácio de Sá </li>
-    </ul>
 </div>
 
 ### Cursos Complementares:
