@@ -49,18 +49,7 @@
     <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
         <img alt="Java script" width="38px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    </a>
-    <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
-        <img alt="React" width="38px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    </a>
-    <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
-        <img alt="Node js" width="38px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    </a>
-    <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
-        <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    </a>
+    </a>    
 </div>
 
 ### Estatisticas:
