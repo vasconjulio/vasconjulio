@@ -47,8 +47,8 @@
     </a>    
 
     <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
-        <img alt="Python script" width="38px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+        <img alt="Java script" width="38px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     </a>   
 </div>
 
