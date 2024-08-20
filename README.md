@@ -1,4 +1,4 @@
-## Olá 👋, eu sou o Julio Vasconcelos
+## Olá 👋, me chamo Julio Vasconcelos
 
 ### Portfólio (em construção 🚧):
 <div>
@@ -28,14 +28,9 @@
 ### Sobre mim:
 <div>
     <ul>
-        <li>Apaixonado por tecnologia, em 2021 decidi realizar transição de carreira e conquistei minha primeira
-            oportunidade na
-            área de Tecnologia e Desenolvimento Front-End Web e Mobile.</li>
-        <li>Estou sempre envolvido em ações que promovem melhorias e desenvolvimento interpessoal, trabalho em equipe é
-            meu forte,
-            sempre focado na qualidade.</li>
+        <li>Apaixonado por tecnologia</li>
+        <li>Atualmente focado em dominar a linguagem Python</li>
     </ul>
-            #Tecnologia #Desenvolvimento #Frontend #Programacao #Webdesigner
 </div>
 
 ### Linguagens e ferramentas:
@@ -50,6 +45,11 @@
         <img alt="Java script" width="38px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     </a>    
+
+    <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
+        <img alt="Python script" width="38px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    </a>   
 </div>
 
 ### Estatisticas:
